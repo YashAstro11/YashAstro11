@@ -56,7 +56,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashAstro11&theme=radical" />
   <br/>
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YashAstro11&count_bg=%23FF6F61&title_bg=%23555555&icon=github.svg&icon_color=%23ffffff&title=visits&edge_flat=false)
+  <p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=YashAstro11.YashAstro11&left_color=blue&right_color=orange&left_text=Visitors%20from&right_text=India🇮🇳" />
+  </p>
+
 
 
 
