@@ -62,7 +62,7 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashyadav-cse" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-yadav-145b912b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://github.com/YashAstro11" target="_blank">
