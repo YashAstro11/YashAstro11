@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashAstro11&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
   <p align="center"
-<!--   <img src="https://streak-stats.demolab.com?user=YashAstro11&theme=radical" alt="GitHub streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAstro11&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
