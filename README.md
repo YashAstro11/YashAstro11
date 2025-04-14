@@ -70,13 +70,6 @@
 
 ---
 
-### 🐍 GitHub Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YashAstro11/YashAstro11/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 ### 🌍 Visitor Map
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashAstro11&theme=radical" />
