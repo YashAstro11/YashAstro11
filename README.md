@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="100%" alt="Banner GIF" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashAstro11&label=Profile%20views&color=0e75b6&style=flat" alt="YashAstro11" />
 </p>
 
