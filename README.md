@@ -56,8 +56,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashAstro11&theme=radical" />
   <br/>
-  <img src="https://www.revolvermaps.com/counter.php?counter=5&id=5w3csw8tfj4&color=ff0000&bgc=000000&transparent=0&locations=200&ts=1" width="400" />
+  <p align="center">
+  <img src="https://your-image-link.com/world-map.png" width="400"/>
 </p>
+
 
 ---
 
