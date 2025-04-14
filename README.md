@@ -56,9 +56,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashAstro11&theme=radical" />
   <br/>
-  <p align="center">
-  <img src="https://your-image-link.com/world-map.png" width="400"/>
-</p>
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YashAstro11&count_bg=%23FF6F61&title_bg=%23555555&icon=github.svg&icon_color=%23ffffff&title=visits&edge_flat=false)
+
 
 
 ---
