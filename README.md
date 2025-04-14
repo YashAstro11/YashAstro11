@@ -41,8 +41,8 @@
 
 ### 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/YashAstro11/Crop-Identifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YashAstro11&repo=Crop-Identifier&theme=radical" /></a>
-  <a href="https://github.com/YashAstro11/PaperGen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YashAstro11&repo=PaperGen&theme=radical" /></a>
+  <a href="https://github.com/YashAstro11/Women-Safety-Analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YashAstro11&repo=Crop-Identifier&theme=radical" /></a>
+  <a href="https://github.com/YashAstro11/BMI-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YashAstro11&repo=PaperGen&theme=radical" /></a>
 </p>
 
 ---
