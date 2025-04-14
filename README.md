@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashAstro11&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
   <p align="center"
-  <img src="https://streak-stats.demolab.com?user=YashAstro11&theme=radical" alt="GitHub streak" />
+<!--   <img src="https://streak-stats.demolab.com?user=YashAstro11&theme=radical" alt="GitHub streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAstro11&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -55,8 +55,8 @@
 ### 🌍 Visitor Map
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashAstro11&theme=radical" />
-  <br/>
-  <img src="https://www.revolvermaps.com/counter.php?counter=5&id=5w3csw8tfj4&color=ff0000&bgc=000000&transparent=0&locations=200&ts=1" width="400" />
+<!--   <br/> -->
+<!--   <img src="https://www.revolvermaps.com/counter.php?counter=5&id=5w3csw8tfj4&color=ff0000&bgc=000000&transparent=0&locations=200&ts=1" width="400" /> -->
 </p>
 
 
