@@ -39,9 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashAstro11&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
   <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YashAstro11&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500&sideNums=F8F8F2&ring=FF6F61&currStreakNum=FFA500&cache_bust=1" />
-</p>
-
+  <img src="https://streak-stats.demolab.com?user=YashAstro11&theme=radical" alt="GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAstro11&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
