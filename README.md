@@ -15,7 +15,6 @@
 - 🚀 Currently building:  
   • `Crop Identification System` using YOLO + satellite images  
   • 🎞️ Motivational content on Instagram  
-- 🛰️ Future ISRO Scientist – preparing for Scientist/Engineer (CSE)  
 - 💡 I love creating tech that solves real-world problems  
 
 ---
