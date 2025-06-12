@@ -14,7 +14,7 @@
 - 🎓 B.Tech CSE student  
 - 🚀 Currently building:  
   • `Crop Identification System` using YOLO + satellite images  
-  • 🎞️ Motivational content on Instagram  
+  • 🕸️Spidey-Themed Portfolio 
 - 💡 I love creating tech that solves real-world problems  
 
 ---
