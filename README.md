@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=460&lines=React+Native+Intern+@SlotinSolutions;AI+%7C+Web+%7C+Mobile+Developer;CSE+Undergrad+%7C+Dreaming+of+Mars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=460&lines=AI+%7C+Web+%7C+Mobile+Developer;CSE+Undergrad+%7C+Dreaming+of+Mars" />
 </p>
 
 <p align="center">
