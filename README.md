@@ -12,10 +12,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 A Final year B.Tech CSE student at Shri Ramswaroop Memorial University  
-- 🧑‍💼 Currently interning as a **React Native Developer** at **SlotinSolutions**
-- 🔧 Currently working on:
-  - 🌾 **Crop Identification System** – YOLOv5 + Satellite Image Processing  
-  - 🕷️ **Spidey-Port** – A Spider-Man-themed React portfolio  
+- 🧑‍💼 Currently interning as a **React Native Developer** at **SlotinSolutions**  
 - 🧠 Interests: AI/ML, Computer Vision, UI/UX, Open Source  
 - 🚀 Mission: Lead humanity’s first tech team on **Mars**
 
