@@ -52,10 +52,10 @@
 
 
 
-### 🌍 Profile Summary
-<p align="center">
+<!--### 🌍 Profile Summary
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashAstro11&theme=radical" />
-</p>
+</p> -->
 
 ---
 
