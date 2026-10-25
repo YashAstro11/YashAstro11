@@ -10,10 +10,6 @@
   <span style="color:#0B3D91;">COMES GREAT RESPONSIBILITY</span>
 </h1>
 
-<p align="center">
-  <b>B.Tech CSE Graduate · React Native Developer · Product Builder</b>
-</p>
-
 **B.Tech CSE Graduate · Mobile App Developer · Product Builder**
 
 [![GitHub](https://img.shields.io/badge/GITHUB-0B3D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashAstro11)
