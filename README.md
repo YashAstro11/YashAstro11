@@ -4,7 +4,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:E62429,100:0B3D91&height=210&section=header&text=YASH%20YADAV&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=YOUR%20FRIENDLY%20NEIGHBORHOOD%20DEVELOPER&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Classic Spider-Man inspired developer banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=bold&size=22&duration=3000&pause=900&color=E62429&center=true&vCenter=true&width=600&lines=WITH+GREAT+CODE+COMES+GREAT+RESPONSIBILITY;REACT+NATIVE+DEVELOPER;BUILDING+MY+OWN+DIGITAL+UNIVERSE;ONE+MISSION+AT+A+TIME" alt="Animated developer introduction"/>
+<h1 align="center">
+  <span style="color:#E62429;">🕷️ WITH GREAT CODE</span>
+  <br/>
+  <span style="color:#0B3D91;">COMES GREAT RESPONSIBILITY</span>
+</h1>
+
+<p align="center">
+  <b>B.Tech CSE Graduate · React Native Developer · Product Builder</b>
+</p>
 
 **B.Tech CSE Graduate · Mobile App Developer · Product Builder**
 
