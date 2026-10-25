@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-0B3D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashAstro11)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-E62429?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-yadav-145b912b8/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0B3D91?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yash_2606__/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0B3D91?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yash_2603__/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YashAstro11&style=for-the-badge&color=E62429&label=SPIDER-SIGNAL+VISITORS)
 
